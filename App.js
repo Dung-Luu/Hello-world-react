@@ -7,6 +7,7 @@ class App extends Component {
         <h1>Hello World!</h1>
         <p>I just created my first React App</p>
         <p>New line</p>
+        <p>Second line</p>
       </div>
     );
   }
